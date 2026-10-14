@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hey, World!(冷笑)");
-Console.WriteLine("Hey, World!(冷笑)");
-Console.WriteLine("Hey, World!(冷笑)");
-Console.WriteLine("Hey, World!(冷笑)");
+﻿
+Console.WriteLine("Hey, World!");
+Console.WriteLine("Hey, pooooooooooooooooooooo");
+Console.WriteLine("Hey, pooooooooooooooooooooo");
